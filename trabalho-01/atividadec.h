@@ -7,6 +7,6 @@ public:
 	atividadec(int);
 	void imprime();
 private:
-	int _i, _flag;
+	int _i, _flag,_o;
 	std::string _a;
 };
