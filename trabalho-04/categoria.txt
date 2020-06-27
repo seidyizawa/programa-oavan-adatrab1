@@ -1,0 +1,5 @@
+categoria1,1203
+categoria2,1031
+categoria3,3144
+categoria4,144
+categoria1,444
